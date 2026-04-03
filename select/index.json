@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "2.0",
+  "base_artist": "BTS",
+  "createdAt": "2026-04-03T09:26:37.982359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blue Jeans 2.0",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/01_Blue_Jeans_2.0_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blue Jeans 2.0",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/02_Blue_Jeans_2.0_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear God 2.0",
+      "artist": "The Roots feat. Monsters Of Folk",
+      "has_synced": true,
+      "path": "select/03_Dear_God_2.0_The_Roots_feat._Monsters_Of_Folk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dear God 2.0 (Feat. Monsters Of Folk)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/04_Dear_God_2.0_(Feat._Monsters_Of_Folk)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Seed (2.0)",
+      "artist": "The Roots & Cody ChesnuTT",
+      "has_synced": false,
+      "path": "select/05_The_Seed_(2.0)_The_Roots_&_Cody_ChesnuTT.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jackie Boy 2.0",
+      "artist": "Zeds Dead feat. Omar LinX",
+      "has_synced": true,
+      "path": "select/06_Jackie_Boy_2.0_Zeds_Dead_feat._Omar_LinX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jackie Boy 2.0",
+      "artist": "Zeds Dead & Omar LinX",
+      "has_synced": true,
+      "path": "select/07_Jackie_Boy_2.0_Zeds_Dead_&_Omar_LinX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "THESE DAYS 2.0.2.1.",
+      "artist": "HEALTH",
+      "has_synced": true,
+      "path": "select/08_THESE_DAYS_2.0.2.1._HEALTH.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Jeans 2.0 - UK Single Version",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/09_Blue_Jeans_2.0_-_UK_Single_Version_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Redemption 2.0 - RMB Club Mix",
+      "artist": "RMB",
+      "has_synced": false,
+      "path": "select/10_Redemption_2.0_-_RMB_Club_Mix_RMB.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Closing in 2.0",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/11_Closing_in_2.0_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Sky Away 2.0",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/12_The_Sky_Away_2.0_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Someone (2.0)",
+      "artist": "Boston",
+      "has_synced": true,
+      "path": "select/13_Someone_(2.0)_Boston.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1st & 10 (Feat. Infamous 2-0 & Fate Wilson)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/14_1st_&_10_(Feat._Infamous_2-0_&_Fate_Wilson)_Ludacris.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2.0",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_2.0_BTS.txt"
+    }
+  ]
+}
